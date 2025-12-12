@@ -85,7 +85,7 @@ const truths = [
 ];
 
 const dares = [
-  "Let me update your social media status pretending to be you",
+  
   "Allow yourself to be blindfolded and fed something of my choosing",
   "Do your best impression of me",
   "Kiss me passionately for five minutes",
@@ -115,34 +115,36 @@ const dares = [
   "Let someone take a Polaroid of your “O-face.”",
   "Use a sex toy (or simulate using one) for 30 seconds, clothes on or off, your call.",
   "Let someone of your choice take you to a private corner for 3 minutes, what happens is up to you both.",
-  "Perform a striptease to a song chosen by the group (stop at your comfort level).",
+  
   "Act out your last hookup scene with someone else playing your partner.",
   "Let everyone in the room vote on a body part they want to see, then reveal it (again, only if you’re 100% comfortable).",
   "Simulate sex positions with a partner of your choice, fully clothed (or not, if you both agree).",
-  "With no bottoms, sit on your partner's man piece until the next round (women)",
-  "With no bottoms, spoon your partner until the next round",
+  "With no bottoms, sit on your partner's man piece for 3 mins (women)",
+  "With no bottoms, spoon your partner for 5 mins",
   "Give your partner head for 3 minutes",
   "Take an ice cube and run it up and down your partner's body until it is melted",
-  "Spray whipped cream (or any other food) all over someone in the group and eat it off of them",
   "Bite/kiss your partner's booty",
   "Blindfold yourself, Spin around for ten seconds, whoever you are pointing to at the end, go in the next room and enjoy 7 minutes of heaven",
-  "Sit naked for the rest of the game",
+  "Remove your shirt for the rest of the game",
   "Take a naked selfie and send it to your partner",
-  "Go in the next room and make a sex video with your partner for 5 minutes",
   "Give your partner's private a peck",
-  "Stand outside naked for 3 minutes",
+  "Stand inside naked for 3 minutes",
   "Give a hand job for 3 minutes",
   "Make love with your partner for 3 minutes only (must stop after 3 minutes)",
   "Take off your partner's bra (or nearest woman's) using only your teeth",
   "Give a back rub to the person to your right",
   "Wear a pair of your partner's underwear",
   "Put a hickey on the inner thigh of the person to your left",
+  "Sensually kiss your challenger for 15 seconds.",
+  "Let your challenger do a body shot off of your body.",
+  "Beg for permission the next time you need to use the washroom.",
+  
+  "Reproduce all the sounds of a naughty sexy scene in a movie.",
   "Give head to the person next to you for 2 full songs",
   "Make your partner cum using only your hands",
   "Let your partner rub your inner thighs, but don't let yourself get hard",
-  "Make a porno in front of the group. You must do everything the group says to do for 10 minutes",
   "You must act like the sex slave to the person to your right. Doing whatever they say to do for the next 15 minutes.",
-  "Go blindfolded into the closet, undress, and redress with items only available in that same closet"
+  "Go blindfolded and let someone next to you feel your upper body"
 ];
 
 export { truths, dares };
