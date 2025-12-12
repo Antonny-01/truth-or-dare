@@ -63,13 +63,6 @@ const truths = [
   "What’s the worst thing you’ve ever said to somebody?",
   "What’s your biggest insecurity?",
   "What’s your most embarrassing childhood memory?"
-];
-
-const dares = [
-  "Let me update your social media status pretending to be you",
-  "Allow yourself to be blindfolded and fed something of my choosing",
-  "Do your best impression of me",
-  "Kiss me passionately for five minutes",
   "Where’s the weirdest/most adventurous place you’ve had sex?",
   "Do you have any secret fantasies?",
   "What’s your favourite sex position?",
@@ -89,6 +82,13 @@ const dares = [
   "Describe your perfect date night that ends in the bedroom.",
   "Which outfit of mine do you find most irresistible?",
   "Have you ever had a dream about someone else while in a relationship?",
+];
+
+const dares = [
+  "Let me update your social media status pretending to be you",
+  "Allow yourself to be blindfolded and fed something of my choosing",
+  "Do your best impression of me",
+  "Kiss me passionately for five minutes",
   "Give someone a massage, anywhere below the shoulders but above the knees.",
   "Ask someone to describe a sexy dream they’ve had… about you.",
   "Get blindfolded and guess who’s kissing your neck.",
