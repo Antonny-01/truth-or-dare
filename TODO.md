@@ -1,0 +1,7 @@
+- [x] Parse Tonny.txt into truths and dares arrays
+- [x] Create data.js file
+- [x] Create AgeWarning component
+- [x] Create Game component with Truth/Dare buttons
+- [x] Style with exotic design (dark, gradients, animations)
+- [x] Integrate components in App.js
+- [x] Test the app

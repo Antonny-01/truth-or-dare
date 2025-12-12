@@ -1,0 +1,122 @@
+.game {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0f0f23, #1a1a2e, #16213e);
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.game::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at 30% 70%, rgba(131, 56, 236, 0.1), transparent 50%),
+              radial-gradient(circle at 70% 30%, rgba(255, 0, 110, 0.1), transparent 50%);
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.game-title {
+  font-size: 3rem;
+  margin-bottom: 40px;
+  background: linear-gradient(45deg, #ff006e, #8338ec, #3a86ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: 0 0 20px rgba(255, 0, 150, 0.5);
+  animation: glow 3s ease-in-out infinite alternate;
+  z-index: 1;
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 20px rgba(255, 0, 150, 0.5);
+  }
+  to {
+    text-shadow: 0 0 30px rgba(255, 0, 150, 0.8);
+  }
+}
+
+.buttons {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 40px;
+  z-index: 1;
+}
+
+.truth-button, .dare-button {
+  background: linear-gradient(45deg, #ff006e, #8338ec);
+  border: none;
+  color: white;
+  padding: 20px 40px;
+  font-size: 1.5rem;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 15px rgba(255, 0, 150, 0.5);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.truth-button:hover, .dare-button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 25px rgba(255, 0, 150, 0.8);
+}
+
+.dare-button {
+  background: linear-gradient(45deg, #8338ec, #3a86ff);
+}
+
+.item-display {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(255, 0, 150, 0.5);
+  border: 2px solid rgba(255, 0, 150, 0.3);
+  max-width: 600px;
+  animation: slideIn 1s ease-out;
+  z-index: 1;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.item-type {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ff006e;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.item-text {
+  font-size: 1.3rem;
+  line-height: 1.6;
+  color: #fff;
+}
