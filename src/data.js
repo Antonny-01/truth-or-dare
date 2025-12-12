@@ -62,7 +62,7 @@ const truths = [
   "When was the last time you cried?",
   "What’s the worst thing you’ve ever said to somebody?",
   "What’s your biggest insecurity?",
-  "What’s your most embarrassing childhood memory?"
+  "What’s your most embarrassing childhood memory?",
   "Where’s the weirdest/most adventurous place you’ve had sex?",
   "Do you have any secret fantasies?",
   "What’s your favourite sex position?",
