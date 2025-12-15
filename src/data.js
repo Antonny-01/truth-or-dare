@@ -12,7 +12,7 @@ const truths = [
   "What's something non-sexual that turns you on?",
   "Do you have a sexual fetish? If so, what is it?",
   "What types of games gave you the most joy as a child?",
-  "What do you think about when you masturbate?",
+ 
   "What would an erotic vacation look like for you?",
   "Is there a sexy song that tends to get you in the mood?",
   "Have you ever been caught having sex before?",
@@ -23,7 +23,7 @@ const truths = [
   "Want to try making as much noise during sex as possible?",
   "Want to try sex as quietly as possible, as if we’re trying not to get caught?",
   "Can we spend a night devoted to your pleasure and what makes you feel good?",
-  "Want to try using food as foreplay?",
+  
   "Have you ever fantasized about someone else while having sex?",
   "What color underwear would you like to see me in later?",
   "Do you like playing music in the background or silence?",
@@ -36,7 +36,7 @@ const truths = [
   "What is your favorite position?",
   "How do you feel about anal play?",
   "Have you ever thought about trying tantric sex?",
-  "Have you ever been caught masturbating? How did it make you feel?",
+  
   "What’s your favorite type of foreplay?",
   "What is the most amount of times you've had sex in a single day?",
   "Can you describe the last time you got turned on in public?",
@@ -50,23 +50,21 @@ const truths = [
   "What's your favorite time of day to have sex?",
   "What is the most embarrassing thing that’s happened during sex?",
   "What’s a secret you’ve never told anyone?",
-  "Do you have a favorite sibling?",
-  "Do you have a favorite friend?",
+  
   "What’s your biggest fear?",
   "Do you have a hidden talent?",
   "What’s the worst thing you’ve ever done?",
   "Who’s your least favorite person in this room?",
   "Who would you call to help you bury a body?",
   "What’s one thing you’d never do, even for 1 million dollars?",
-  "When was the last time you lied?",
-  "When was the last time you cried?",
+ 
   "What’s the worst thing you’ve ever said to somebody?",
   "What’s your biggest insecurity?",
   "What’s your most embarrassing childhood memory?",
   "Where’s the weirdest/most adventurous place you’ve had sex?",
   "Do you have any secret fantasies?",
   "What’s your favourite sex position?",
-  "When was the last time you masturbated?",
+ 
   "Name something typically non-sexual that turns you on?",
   "What was your funniest sexual mishap?",
   "Have you ever had a sexy dream about me?",
@@ -86,7 +84,7 @@ const truths = [
 
 const dares = [
   
-  "Allow yourself to be blindfolded and fed something of my choosing",
+ 
   "Do your best impression of me",
   "Kiss me passionately for five minutes",
   "Give someone a massage, anywhere below the shoulders but above the knees.",
@@ -107,7 +105,7 @@ const dares = [
   "Use your tongue to spell out a word on someone’s skin. They have to guess what it is.",
   "Strip down to your underwear and pose like you’re in a magazine shoot.",
   "Let someone sit on your lap and whisper their dirtiest fantasy to you (inaudible to others).",
-  "Give someone a “hands only” exploration dare, 30 seconds, no touching genitals.",
+  "Give someone a “hands only” exploration dare, 30 seconds.",
   "Lick or kiss a body part of your choice… with their permission.",
   "Remove a piece of underwear and hand it to someone in the group.",
   "Simulate oral sex on a banana or popsicle, while maintaining eye contact with someone.",
@@ -138,6 +136,7 @@ const dares = [
   "Sensually kiss your challenger for 15 seconds.",
   "Let your challenger do a body shot off of your body.",
   "Beg for permission the next time you need to use the washroom.",
+  
   
   "Reproduce all the sounds of a naughty sexy scene in a movie.",
   "Give head to the person next to you for 2 full songs",
